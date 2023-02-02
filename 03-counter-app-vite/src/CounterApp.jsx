@@ -21,8 +21,8 @@ export const CounterApp = ({ value }) => {
             <button onClick={handleSubstract}>
                 -1
             </button>
-            <button onClick={handleReset}>
-                Resetet
+            <button area-label="reset" onClick={handleReset}>
+                Reset
             </button>
         </>);
 };

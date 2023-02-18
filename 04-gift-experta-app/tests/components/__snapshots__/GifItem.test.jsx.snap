@@ -7,8 +7,11 @@ exports[`Pruebas en <GifItem> debe hacer match con el snapshopt 1`] = `
   >
     <img
       alt="Link"
-      src="https://google.com/link"
+      src="https://www.16personalities.com/static/images/personality-types/avatars/infj-advocate.png"
     />
+    <p>
+      Link
+    </p>
   </div>
 </div>
 `;

@@ -1,5 +1,4 @@
-import { getGifs } from '../../helpers/getGifts'
-
+import { getGifs } from '../../helpers/getGifts';
 
 describe('Pruebas en getGifts()', () => {
   
